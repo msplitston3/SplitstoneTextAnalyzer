@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"<Unnamed>","c":"SplitstoneTextAnalyzer","l":"main(String[])","u":"main(java.lang.String[])"},{"p":"<Unnamed>","c":"SplitstoneTextAnalyzer","l":"SplitstoneTextAnalyzer()","u":"%3Cinit%3E()"},{"p":"<Unnamed>","c":"SplitstoneTextAnalyzer","l":"testA()"},{"p":"<Unnamed>","c":"SplitstoneTextAnalyzer","l":"textAnalyzer()"}];updateSearchResults();
